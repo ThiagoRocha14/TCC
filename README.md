@@ -1,2 +1,2 @@
 # TCC
-App TCC
+Artigo e Apresentações do meu TCC.
